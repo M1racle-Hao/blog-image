@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 250 100" style="enable-background:new 0 0 250 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M1.9,45.3c0,20.6,16.7,37.4,37.4,37.4v9.5c0,0,35.7-14,37.3-44.7c0-0.4,0-0.7,0-1.1c0-0.1,0-0.2,0-0.3
+					c0-0.2,0-0.5,0-0.7C76.6,24.8,59.9,8,39.2,8C18.6,7.9,1.9,24.6,1.9,45.3"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-785.0427" y1="-516.9824" x2="-784.3274" y2="-516.9824" gradientTransform="matrix(104.4421 0 0 104.4421 81993.4063 54044.7227)">
+				<stop  offset="0" style="stop-color:#4AFFB0"/>
+				<stop  offset="1" style="stop-color:#457CFF"/>
+			</linearGradient>
+			<rect x="1.9" y="7.9" class="st0" width="74.7" height="84.2"/>
+		</g>
+	</g>
+	<path class="st1" d="M30.9,22.9L62.2,41c3.3,1.9,3.3,6.6,0,8.5L30.9,67.6c-3.3,1.9-7.4-0.5-7.4-4.3V27.2
+		C23.5,23.4,27.6,21,30.9,22.9"/>
+	<g>
+		<rect x="99.6" y="8.6" width="12.4" height="12.4"/>
+		<polygon points="99.6,45.7 99.6,58.1 99.6,70.5 99.6,82.9 112,82.9 112,70.5 112,58.1 112,45.7 112,33.3 99.6,33.3 		"/>
+		<polygon points="124.3,8.6 124.3,21 136.7,21 149.1,21 149.1,8.6 136.7,8.6 		"/>
+		<polygon points="186.2,8.6 173.8,8.6 161.5,8.6 161.4,8.6 149.1,8.6 149.1,21 149.1,33.3 149.1,33.4 149.1,45.7 149.1,58.1 
+			149.1,70.5 149.1,82.9 161.5,82.9 161.5,70.5 161.5,58.1 161.5,45.7 161.5,33.4 161.5,33.3 161.5,21 173.8,21 186.2,21 		"/>
+		<polygon points="235.7,45.5 223.4,45.5 223.4,33.2 223.4,33.1 223.4,20.8 211,20.8 211,33.1 211,33.2 211,45.5 198.6,45.5 
+			198.6,57.9 211,57.9 211,70.3 211,82.7 223.4,82.7 223.4,70.3 223.4,57.9 235.7,57.9 248.1,57.9 248.1,45.5 		"/>
+		<rect x="186.2" y="45.5" width="12.4" height="12.4"/>
+	</g>
+</g>
+</svg>
